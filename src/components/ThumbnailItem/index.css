@@ -1,0 +1,50 @@
+/* Write your code here. */
+.select-list-item {
+  margin-right: 20px;
+  margin-bottom: 18px;
+  cursor: pointer;
+  opacity: 0.5;
+}
+.list-item {
+  margin-right: 20px;
+  margin-bottom: 18px;
+  cursor: pointer;
+  opacity: 0.5;
+}
+
+.thumbnail-img {
+  width: 70px;
+  height: 70px;
+}
+
+.thumbnail-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-right: 0px;
+}
+
+.heading {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: roboto;
+  color: #1e293b;
+  margin-bottom: 0px;
+}
+
+.para {
+  font-size: 13px;
+  font-weight: 400;
+  font-family: roboto;
+  color: #64748b;
+}
+
+.thumbnail-list-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: flex-start;
+  margin-right: 0px;
+  padding-right: 0px;
+  flex-wrap: wrap;
+}
